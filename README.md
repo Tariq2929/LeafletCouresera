@@ -1,7 +1,7 @@
 # LeafletCouresera
-Created by 
-Tariq Khosla
-22/11/2020
+#Created by 
+#Tariq Khosla
+#22/11/2020
 This example was created for the Coursera Developing Data Products class.
 
 Instructions
