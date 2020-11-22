@@ -1,0 +1,11 @@
+library(leaflet)
+my_map <- leaflet() %>%
+  addTiles()
+
+my_map <- my_map %>%
+  addMarkers(lat=48.8566, lng=2.3522,
+             popup="Paris")
+my_map
+
+
+
